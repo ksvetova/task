@@ -21,7 +21,8 @@ HEADERS +=     \
     test_1.h \
     test_2.h \
     test_3.h \
-    test_4.h
+    test_4.h \
+    test_5.h
 
 
 SOURCES +=     main.cpp \

@@ -4,6 +4,8 @@
 #include "test_2.h" //checkboard
 #include "test_3.h" //checkmove
 #include "test_4.h" //place
+#include "test_5.h" //move
+
 
 int main(int argc, char *argv[])
 {
