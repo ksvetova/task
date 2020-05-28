@@ -5,7 +5,7 @@
 #include "test_3.h" //checkmove
 #include "test_4.h" //place
 #include "test_5.h" //move
-
+#include "test_6.h" //out
 
 int main(int argc, char *argv[])
 {
