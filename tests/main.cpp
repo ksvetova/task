@@ -1,8 +1,9 @@
 #include <gtest/gtest.h>
-#include "test.h"
-#include "test_1.h"
-#include "test_2.h"
-
+#include "test.h" //destroy
+#include "test_1.h" //damka
+#include "test_2.h" //checkboard
+#include "test_3.h" //checkmove
+#include "test_4.h" //place
 
 int main(int argc, char *argv[])
 {

@@ -19,7 +19,9 @@ HEADERS +=     \
     ../app/function.h \
     test.h \
     test_1.h \
-    test_2.h
+    test_2.h \
+    test_3.h \
+    test_4.h
 
 
 SOURCES +=     main.cpp \
