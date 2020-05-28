@@ -1,5 +1,7 @@
 #include <gtest/gtest.h>
 #include "test.h"
+#include "test_1.h"
+#include "test_2.h"
 
 
 int main(int argc, char *argv[])
