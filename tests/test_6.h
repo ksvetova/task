@@ -2,6 +2,7 @@
 #define TEST_6_H
 
 //тестирование outboard
+
 extern"C"{
 #include "function.h"
 }
