@@ -22,8 +22,8 @@ HEADERS +=     \
     test_2.h \
     test_3.h \
     test_4.h \
-    test_5.h
-
+    test_5.h \
+    test_6.h
 
 SOURCES +=     main.cpp \
     ../app/function.c \
