@@ -2,6 +2,7 @@
 #define TEST_5_H
 
 //тестирование move
+
 extern"C"{
 #include "function.h"
 }
