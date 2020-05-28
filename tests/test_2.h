@@ -5,7 +5,7 @@ extern"C"{
 }
 #include <gtest/gtest.h>
 
-TEST(test1,pozitive){
+TEST(test4,pozitive){
     ASSERT_EQ(checkForBoard(2,4),1);
     ASSERT_EQ(checkForBoard(1,1),1);
     ASSERT_EQ(checkForBoard(7,7),1);
@@ -15,7 +15,7 @@ TEST(test1,pozitive){
     ASSERT_EQ(checkForBoard(7,5),1);
 }
 
-TEST(test2,negative){
+TEST(test5,negative){
     ASSERT_EQ(checkForBoard(1,0),0);
     ASSERT_EQ(checkForBoard(3,4),0);
     ASSERT_EQ(checkForBoard(2,5),0);

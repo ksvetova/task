@@ -4,7 +4,7 @@ extern"C"{
 #include "function.h"
 }
 #include <gtest/gtest.h>
-TEST(test1,test){
+TEST(test3,test){
     int gb[8][8] = { { 0, 0,-1, 0, 2, 0, 1, 0},
                      { 0, 0, 0,-1, 0, 0, 0, 1},
                      { 1, 0, 0, 0, 0, 0, 1, 0},
